@@ -1,16 +1,25 @@
 {
     "users": [
-      {
-        "id": "17087125879",
-        "phone": "17087125879",
-        "address": "5729 S. Lakeshore Dr.",
-        "cityState": "Chicago, IL",
-        "zipCode": "60637",
-        "householdSize": "Household Size (4)",
-        "deliveryDay": "Delivery on Sunday"
-      }
+        {
+            "id": "17087125879",
+            "phone": "17087125879",
+            "address": "5729 S. Lakeshore Dr.",
+            "cityState": "Chicago, IL",
+            "zipCode": "60637",
+            "householdSize": "Household Size (4)",
+            "deliveryDay": "Delivery on Sunday"
+        },
+        {
+            "id": "+17087125879",
+            "phone": "17087125879",
+            "address": "5729 S. Lakeshore Dr.",
+            "cityState": "Chicago, IL",
+            "zipCode": "60637",
+            "householdSize": "Household Size (4)",
+            "deliveryDay": "Delivery on Sunday"
+        }
     ],
     "profile": {
-      "name": "typicode"
+        "name": "typicode"
     }
-  }
+}
