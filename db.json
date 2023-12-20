@@ -1,0 +1,16 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "phone": "+17087125879",
+        "address": "5729 S. Lakeshore Dr.",
+        "cityState": "Chicago, IL",
+        "zip": "60637",
+        "householdSize": "Household Size (4)",
+        "deliveryDay": "Delivery on Sunday"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
